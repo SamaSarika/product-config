@@ -1,2 +1,3 @@
 product.config=http://localhost:8085
-dev properties
+welcome:
+  msg: welcome to dev env
