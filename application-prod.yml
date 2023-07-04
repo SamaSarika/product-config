@@ -1,3 +1,2 @@
 product.config=http://localhost:8085
-welcome:
-  msg: welcome to prod env
+ welcome to prod env
